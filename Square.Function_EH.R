@@ -4,4 +4,3 @@ square_number <- function(base) {
 }
 
 
-Hi :)
